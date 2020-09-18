@@ -1,0 +1,5 @@
+curl 'https://contrast-with-demoapp.herokuapp.com/'
+curl 'https://contrast-with-demoapp.herokuapp.com/path?lang=en'
+curl 'https://contrast-with-demoapp.herokuapp.com/fragment?section=main'
+curl 'https://contrast-with-demoapp.herokuapp.com/safe/redirect?url=fragment%3Fsection%3Dmain'
+curl 'https://contrast-with-demoapp.herokuapp.com/safe/fragment?section=main'
